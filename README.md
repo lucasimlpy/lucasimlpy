@@ -10,7 +10,7 @@ I'm a Backend software developer.<br>Mostly working with Spring Boot Java
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lucasimlpy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lucasimlpy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasimlpy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> Note: Most of my work is in private repositories, so these stats only reflect a small part of what I do.
 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
