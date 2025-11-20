@@ -12,5 +12,6 @@ I'm a Backend software developer.<br>Mostly working with Spring Boot Java
 ![](https://nirzak-streak-stats.vercel.app/?user=lucasimlpy&theme=dark&hide_border=false)<br/>
 > Note: Most of my work is in private repositories, so these stats only reflect a small part of what I do.
 
-### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote" />
+</div>
