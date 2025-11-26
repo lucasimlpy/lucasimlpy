@@ -1,5 +1,5 @@
 # About Me:
-I'm a Backend software developer.<br>Mostly working with Spring Boot Java
+I'm a Backend software developer with good knowledge about Frontend.<br>Mostly working with Spring Boot Java
 
 
 ## Socials:
